@@ -1,0 +1,14 @@
+C:\Demos\CSharp\ConsoleAppExer\Arrays3\bin\Debug\net8.0\Arrays3.exe
+C:\Demos\CSharp\ConsoleAppExer\Arrays3\bin\Debug\net8.0\Arrays3.deps.json
+C:\Demos\CSharp\ConsoleAppExer\Arrays3\bin\Debug\net8.0\Arrays3.runtimeconfig.json
+C:\Demos\CSharp\ConsoleAppExer\Arrays3\bin\Debug\net8.0\Arrays3.dll
+C:\Demos\CSharp\ConsoleAppExer\Arrays3\bin\Debug\net8.0\Arrays3.pdb
+C:\Demos\CSharp\ConsoleAppExer\Arrays3\obj\Debug\net8.0\Arrays3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Demos\CSharp\ConsoleAppExer\Arrays3\obj\Debug\net8.0\Arrays3.AssemblyInfoInputs.cache
+C:\Demos\CSharp\ConsoleAppExer\Arrays3\obj\Debug\net8.0\Arrays3.AssemblyInfo.cs
+C:\Demos\CSharp\ConsoleAppExer\Arrays3\obj\Debug\net8.0\Arrays3.csproj.CoreCompileInputs.cache
+C:\Demos\CSharp\ConsoleAppExer\Arrays3\obj\Debug\net8.0\Arrays3.dll
+C:\Demos\CSharp\ConsoleAppExer\Arrays3\obj\Debug\net8.0\refint\Arrays3.dll
+C:\Demos\CSharp\ConsoleAppExer\Arrays3\obj\Debug\net8.0\Arrays3.pdb
+C:\Demos\CSharp\ConsoleAppExer\Arrays3\obj\Debug\net8.0\Arrays3.genruntimeconfig.cache
+C:\Demos\CSharp\ConsoleAppExer\Arrays3\obj\Debug\net8.0\ref\Arrays3.dll

@@ -1,0 +1,14 @@
+C:\Demos\CSharp\ConsoleAppExer\Arrays\bin\Debug\net8.0\Arrays.exe
+C:\Demos\CSharp\ConsoleAppExer\Arrays\bin\Debug\net8.0\Arrays.deps.json
+C:\Demos\CSharp\ConsoleAppExer\Arrays\bin\Debug\net8.0\Arrays.runtimeconfig.json
+C:\Demos\CSharp\ConsoleAppExer\Arrays\bin\Debug\net8.0\Arrays.dll
+C:\Demos\CSharp\ConsoleAppExer\Arrays\bin\Debug\net8.0\Arrays.pdb
+C:\Demos\CSharp\ConsoleAppExer\Arrays\obj\Debug\net8.0\Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Demos\CSharp\ConsoleAppExer\Arrays\obj\Debug\net8.0\Arrays.AssemblyInfoInputs.cache
+C:\Demos\CSharp\ConsoleAppExer\Arrays\obj\Debug\net8.0\Arrays.AssemblyInfo.cs
+C:\Demos\CSharp\ConsoleAppExer\Arrays\obj\Debug\net8.0\Arrays.csproj.CoreCompileInputs.cache
+C:\Demos\CSharp\ConsoleAppExer\Arrays\obj\Debug\net8.0\Arrays.dll
+C:\Demos\CSharp\ConsoleAppExer\Arrays\obj\Debug\net8.0\refint\Arrays.dll
+C:\Demos\CSharp\ConsoleAppExer\Arrays\obj\Debug\net8.0\Arrays.pdb
+C:\Demos\CSharp\ConsoleAppExer\Arrays\obj\Debug\net8.0\Arrays.genruntimeconfig.cache
+C:\Demos\CSharp\ConsoleAppExer\Arrays\obj\Debug\net8.0\ref\Arrays.dll

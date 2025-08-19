@@ -1,0 +1,15 @@
+C:\Demos\CSharp\ConsoleAppExer\Parse1\bin\Debug\net8.0\Parse1.exe
+C:\Demos\CSharp\ConsoleAppExer\Parse1\bin\Debug\net8.0\Parse1.deps.json
+C:\Demos\CSharp\ConsoleAppExer\Parse1\bin\Debug\net8.0\Parse1.runtimeconfig.json
+C:\Demos\CSharp\ConsoleAppExer\Parse1\bin\Debug\net8.0\Parse1.dll
+C:\Demos\CSharp\ConsoleAppExer\Parse1\bin\Debug\net8.0\Parse1.pdb
+C:\Demos\CSharp\ConsoleAppExer\Parse1\obj\Debug\net8.0\Parse1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Demos\CSharp\ConsoleAppExer\Parse1\obj\Debug\net8.0\Parse1.AssemblyInfoInputs.cache
+C:\Demos\CSharp\ConsoleAppExer\Parse1\obj\Debug\net8.0\Parse1.AssemblyInfo.cs
+C:\Demos\CSharp\ConsoleAppExer\Parse1\obj\Debug\net8.0\Parse1.csproj.CoreCompileInputs.cache
+C:\Demos\CSharp\ConsoleAppExer\Parse1\obj\Debug\net8.0\Parse1.sourcelink.json
+C:\Demos\CSharp\ConsoleAppExer\Parse1\obj\Debug\net8.0\Parse1.dll
+C:\Demos\CSharp\ConsoleAppExer\Parse1\obj\Debug\net8.0\refint\Parse1.dll
+C:\Demos\CSharp\ConsoleAppExer\Parse1\obj\Debug\net8.0\Parse1.pdb
+C:\Demos\CSharp\ConsoleAppExer\Parse1\obj\Debug\net8.0\Parse1.genruntimeconfig.cache
+C:\Demos\CSharp\ConsoleAppExer\Parse1\obj\Debug\net8.0\ref\Parse1.dll

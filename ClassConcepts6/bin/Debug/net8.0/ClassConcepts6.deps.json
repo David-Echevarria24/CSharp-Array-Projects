@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ClassConcepts6/1.0.0": {
+        "runtime": {
+          "ClassConcepts6.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ClassConcepts6/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

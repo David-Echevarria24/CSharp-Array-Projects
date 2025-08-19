@@ -1,0 +1,15 @@
+C:\Demos\CSharp\ConsoleAppExer\Loop3\obj\Debug\net8.0\Loop3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Demos\CSharp\ConsoleAppExer\Loop3\obj\Debug\net8.0\Loop3.AssemblyInfoInputs.cache
+C:\Demos\CSharp\ConsoleAppExer\Loop3\obj\Debug\net8.0\Loop3.AssemblyInfo.cs
+C:\Demos\CSharp\ConsoleAppExer\Loop3\obj\Debug\net8.0\Loop3.csproj.CoreCompileInputs.cache
+C:\Demos\CSharp\ConsoleAppExer\Loop3\obj\Debug\net8.0\Loop3.sourcelink.json
+C:\Demos\CSharp\ConsoleAppExer\Loop3\bin\Debug\net8.0\Loop3.exe
+C:\Demos\CSharp\ConsoleAppExer\Loop3\bin\Debug\net8.0\Loop3.deps.json
+C:\Demos\CSharp\ConsoleAppExer\Loop3\bin\Debug\net8.0\Loop3.runtimeconfig.json
+C:\Demos\CSharp\ConsoleAppExer\Loop3\bin\Debug\net8.0\Loop3.dll
+C:\Demos\CSharp\ConsoleAppExer\Loop3\bin\Debug\net8.0\Loop3.pdb
+C:\Demos\CSharp\ConsoleAppExer\Loop3\obj\Debug\net8.0\Loop3.dll
+C:\Demos\CSharp\ConsoleAppExer\Loop3\obj\Debug\net8.0\refint\Loop3.dll
+C:\Demos\CSharp\ConsoleAppExer\Loop3\obj\Debug\net8.0\Loop3.pdb
+C:\Demos\CSharp\ConsoleAppExer\Loop3\obj\Debug\net8.0\Loop3.genruntimeconfig.cache
+C:\Demos\CSharp\ConsoleAppExer\Loop3\obj\Debug\net8.0\ref\Loop3.dll

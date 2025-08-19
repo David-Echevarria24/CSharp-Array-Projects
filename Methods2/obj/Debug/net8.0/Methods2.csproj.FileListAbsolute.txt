@@ -1,0 +1,15 @@
+C:\Demos\CSharp\ConsoleAppExer\Methods2\bin\Debug\net8.0\Methods2.exe
+C:\Demos\CSharp\ConsoleAppExer\Methods2\bin\Debug\net8.0\Methods2.deps.json
+C:\Demos\CSharp\ConsoleAppExer\Methods2\bin\Debug\net8.0\Methods2.runtimeconfig.json
+C:\Demos\CSharp\ConsoleAppExer\Methods2\bin\Debug\net8.0\Methods2.dll
+C:\Demos\CSharp\ConsoleAppExer\Methods2\bin\Debug\net8.0\Methods2.pdb
+C:\Demos\CSharp\ConsoleAppExer\Methods2\obj\Debug\net8.0\Methods2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Demos\CSharp\ConsoleAppExer\Methods2\obj\Debug\net8.0\Methods2.AssemblyInfoInputs.cache
+C:\Demos\CSharp\ConsoleAppExer\Methods2\obj\Debug\net8.0\Methods2.AssemblyInfo.cs
+C:\Demos\CSharp\ConsoleAppExer\Methods2\obj\Debug\net8.0\Methods2.csproj.CoreCompileInputs.cache
+C:\Demos\CSharp\ConsoleAppExer\Methods2\obj\Debug\net8.0\Methods2.sourcelink.json
+C:\Demos\CSharp\ConsoleAppExer\Methods2\obj\Debug\net8.0\Methods2.dll
+C:\Demos\CSharp\ConsoleAppExer\Methods2\obj\Debug\net8.0\refint\Methods2.dll
+C:\Demos\CSharp\ConsoleAppExer\Methods2\obj\Debug\net8.0\Methods2.pdb
+C:\Demos\CSharp\ConsoleAppExer\Methods2\obj\Debug\net8.0\Methods2.genruntimeconfig.cache
+C:\Demos\CSharp\ConsoleAppExer\Methods2\obj\Debug\net8.0\ref\Methods2.dll

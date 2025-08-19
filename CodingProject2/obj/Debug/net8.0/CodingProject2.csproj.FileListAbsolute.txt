@@ -1,0 +1,14 @@
+C:\Demos\CSharp\ConsoleAppExer\CodingProject2\bin\Debug\net8.0\CodingProject2.exe
+C:\Demos\CSharp\ConsoleAppExer\CodingProject2\bin\Debug\net8.0\CodingProject2.deps.json
+C:\Demos\CSharp\ConsoleAppExer\CodingProject2\bin\Debug\net8.0\CodingProject2.runtimeconfig.json
+C:\Demos\CSharp\ConsoleAppExer\CodingProject2\bin\Debug\net8.0\CodingProject2.dll
+C:\Demos\CSharp\ConsoleAppExer\CodingProject2\bin\Debug\net8.0\CodingProject2.pdb
+C:\Demos\CSharp\ConsoleAppExer\CodingProject2\obj\Debug\net8.0\CodingProject2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Demos\CSharp\ConsoleAppExer\CodingProject2\obj\Debug\net8.0\CodingProject2.AssemblyInfoInputs.cache
+C:\Demos\CSharp\ConsoleAppExer\CodingProject2\obj\Debug\net8.0\CodingProject2.AssemblyInfo.cs
+C:\Demos\CSharp\ConsoleAppExer\CodingProject2\obj\Debug\net8.0\CodingProject2.csproj.CoreCompileInputs.cache
+C:\Demos\CSharp\ConsoleAppExer\CodingProject2\obj\Debug\net8.0\CodingProject2.dll
+C:\Demos\CSharp\ConsoleAppExer\CodingProject2\obj\Debug\net8.0\refint\CodingProject2.dll
+C:\Demos\CSharp\ConsoleAppExer\CodingProject2\obj\Debug\net8.0\CodingProject2.pdb
+C:\Demos\CSharp\ConsoleAppExer\CodingProject2\obj\Debug\net8.0\CodingProject2.genruntimeconfig.cache
+C:\Demos\CSharp\ConsoleAppExer\CodingProject2\obj\Debug\net8.0\ref\CodingProject2.dll

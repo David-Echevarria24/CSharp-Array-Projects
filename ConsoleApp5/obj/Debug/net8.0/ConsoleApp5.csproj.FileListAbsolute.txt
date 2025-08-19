@@ -1,0 +1,14 @@
+C:\Demos\CSharp\ConsoleAppExer\ConsoleApp5\bin\Debug\net8.0\ConsoleApp5.exe
+C:\Demos\CSharp\ConsoleAppExer\ConsoleApp5\bin\Debug\net8.0\ConsoleApp5.deps.json
+C:\Demos\CSharp\ConsoleAppExer\ConsoleApp5\bin\Debug\net8.0\ConsoleApp5.runtimeconfig.json
+C:\Demos\CSharp\ConsoleAppExer\ConsoleApp5\bin\Debug\net8.0\ConsoleApp5.dll
+C:\Demos\CSharp\ConsoleAppExer\ConsoleApp5\bin\Debug\net8.0\ConsoleApp5.pdb
+C:\Demos\CSharp\ConsoleAppExer\ConsoleApp5\obj\Debug\net8.0\ConsoleApp5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Demos\CSharp\ConsoleAppExer\ConsoleApp5\obj\Debug\net8.0\ConsoleApp5.AssemblyInfoInputs.cache
+C:\Demos\CSharp\ConsoleAppExer\ConsoleApp5\obj\Debug\net8.0\ConsoleApp5.AssemblyInfo.cs
+C:\Demos\CSharp\ConsoleAppExer\ConsoleApp5\obj\Debug\net8.0\ConsoleApp5.csproj.CoreCompileInputs.cache
+C:\Demos\CSharp\ConsoleAppExer\ConsoleApp5\obj\Debug\net8.0\ConsoleApp5.dll
+C:\Demos\CSharp\ConsoleAppExer\ConsoleApp5\obj\Debug\net8.0\refint\ConsoleApp5.dll
+C:\Demos\CSharp\ConsoleAppExer\ConsoleApp5\obj\Debug\net8.0\ConsoleApp5.pdb
+C:\Demos\CSharp\ConsoleAppExer\ConsoleApp5\obj\Debug\net8.0\ConsoleApp5.genruntimeconfig.cache
+C:\Demos\CSharp\ConsoleAppExer\ConsoleApp5\obj\Debug\net8.0\ref\ConsoleApp5.dll

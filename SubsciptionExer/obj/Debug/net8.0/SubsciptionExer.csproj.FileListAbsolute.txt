@@ -1,0 +1,14 @@
+C:\Demos\CSharp\ConsoleAppExer\SubsciptionExer\bin\Debug\net8.0\SubsciptionExer.exe
+C:\Demos\CSharp\ConsoleAppExer\SubsciptionExer\bin\Debug\net8.0\SubsciptionExer.deps.json
+C:\Demos\CSharp\ConsoleAppExer\SubsciptionExer\bin\Debug\net8.0\SubsciptionExer.runtimeconfig.json
+C:\Demos\CSharp\ConsoleAppExer\SubsciptionExer\bin\Debug\net8.0\SubsciptionExer.dll
+C:\Demos\CSharp\ConsoleAppExer\SubsciptionExer\bin\Debug\net8.0\SubsciptionExer.pdb
+C:\Demos\CSharp\ConsoleAppExer\SubsciptionExer\obj\Debug\net8.0\SubsciptionExer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Demos\CSharp\ConsoleAppExer\SubsciptionExer\obj\Debug\net8.0\SubsciptionExer.AssemblyInfoInputs.cache
+C:\Demos\CSharp\ConsoleAppExer\SubsciptionExer\obj\Debug\net8.0\SubsciptionExer.AssemblyInfo.cs
+C:\Demos\CSharp\ConsoleAppExer\SubsciptionExer\obj\Debug\net8.0\SubsciptionExer.csproj.CoreCompileInputs.cache
+C:\Demos\CSharp\ConsoleAppExer\SubsciptionExer\obj\Debug\net8.0\SubsciptionExer.dll
+C:\Demos\CSharp\ConsoleAppExer\SubsciptionExer\obj\Debug\net8.0\refint\SubsciptionExer.dll
+C:\Demos\CSharp\ConsoleAppExer\SubsciptionExer\obj\Debug\net8.0\SubsciptionExer.pdb
+C:\Demos\CSharp\ConsoleAppExer\SubsciptionExer\obj\Debug\net8.0\SubsciptionExer.genruntimeconfig.cache
+C:\Demos\CSharp\ConsoleAppExer\SubsciptionExer\obj\Debug\net8.0\ref\SubsciptionExer.dll

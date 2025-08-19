@@ -1,0 +1,15 @@
+C:\Demos\CSharp\ConsoleAppExer\CodingProject\bin\Debug\net8.0\CodingProject.exe
+C:\Demos\CSharp\ConsoleAppExer\CodingProject\bin\Debug\net8.0\CodingProject.deps.json
+C:\Demos\CSharp\ConsoleAppExer\CodingProject\bin\Debug\net8.0\CodingProject.runtimeconfig.json
+C:\Demos\CSharp\ConsoleAppExer\CodingProject\bin\Debug\net8.0\CodingProject.dll
+C:\Demos\CSharp\ConsoleAppExer\CodingProject\bin\Debug\net8.0\CodingProject.pdb
+C:\Demos\CSharp\ConsoleAppExer\CodingProject\obj\Debug\net8.0\CodingProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Demos\CSharp\ConsoleAppExer\CodingProject\obj\Debug\net8.0\CodingProject.AssemblyInfoInputs.cache
+C:\Demos\CSharp\ConsoleAppExer\CodingProject\obj\Debug\net8.0\CodingProject.AssemblyInfo.cs
+C:\Demos\CSharp\ConsoleAppExer\CodingProject\obj\Debug\net8.0\CodingProject.csproj.CoreCompileInputs.cache
+C:\Demos\CSharp\ConsoleAppExer\CodingProject\obj\Debug\net8.0\CodingProject.sourcelink.json
+C:\Demos\CSharp\ConsoleAppExer\CodingProject\obj\Debug\net8.0\CodingProject.dll
+C:\Demos\CSharp\ConsoleAppExer\CodingProject\obj\Debug\net8.0\refint\CodingProject.dll
+C:\Demos\CSharp\ConsoleAppExer\CodingProject\obj\Debug\net8.0\CodingProject.pdb
+C:\Demos\CSharp\ConsoleAppExer\CodingProject\obj\Debug\net8.0\CodingProject.genruntimeconfig.cache
+C:\Demos\CSharp\ConsoleAppExer\CodingProject\obj\Debug\net8.0\ref\CodingProject.dll

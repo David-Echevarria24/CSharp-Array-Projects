@@ -1,0 +1,14 @@
+C:\Demos\CSharp\ConsoleAppExer\ClassConcepts\bin\Debug\net8.0\ClassConcepts.exe
+C:\Demos\CSharp\ConsoleAppExer\ClassConcepts\bin\Debug\net8.0\ClassConcepts.deps.json
+C:\Demos\CSharp\ConsoleAppExer\ClassConcepts\bin\Debug\net8.0\ClassConcepts.runtimeconfig.json
+C:\Demos\CSharp\ConsoleAppExer\ClassConcepts\bin\Debug\net8.0\ClassConcepts.dll
+C:\Demos\CSharp\ConsoleAppExer\ClassConcepts\bin\Debug\net8.0\ClassConcepts.pdb
+C:\Demos\CSharp\ConsoleAppExer\ClassConcepts\obj\Debug\net8.0\ClassConcepts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Demos\CSharp\ConsoleAppExer\ClassConcepts\obj\Debug\net8.0\ClassConcepts.AssemblyInfoInputs.cache
+C:\Demos\CSharp\ConsoleAppExer\ClassConcepts\obj\Debug\net8.0\ClassConcepts.AssemblyInfo.cs
+C:\Demos\CSharp\ConsoleAppExer\ClassConcepts\obj\Debug\net8.0\ClassConcepts.csproj.CoreCompileInputs.cache
+C:\Demos\CSharp\ConsoleAppExer\ClassConcepts\obj\Debug\net8.0\ClassConcepts.dll
+C:\Demos\CSharp\ConsoleAppExer\ClassConcepts\obj\Debug\net8.0\refint\ClassConcepts.dll
+C:\Demos\CSharp\ConsoleAppExer\ClassConcepts\obj\Debug\net8.0\ClassConcepts.pdb
+C:\Demos\CSharp\ConsoleAppExer\ClassConcepts\obj\Debug\net8.0\ClassConcepts.genruntimeconfig.cache
+C:\Demos\CSharp\ConsoleAppExer\ClassConcepts\obj\Debug\net8.0\ref\ClassConcepts.dll

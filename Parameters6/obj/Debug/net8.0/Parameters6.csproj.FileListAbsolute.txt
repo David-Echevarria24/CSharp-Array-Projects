@@ -1,0 +1,15 @@
+C:\Demos\CSharp\ConsoleAppExer\Parameters6\bin\Debug\net8.0\Parameters6.exe
+C:\Demos\CSharp\ConsoleAppExer\Parameters6\bin\Debug\net8.0\Parameters6.deps.json
+C:\Demos\CSharp\ConsoleAppExer\Parameters6\bin\Debug\net8.0\Parameters6.runtimeconfig.json
+C:\Demos\CSharp\ConsoleAppExer\Parameters6\bin\Debug\net8.0\Parameters6.dll
+C:\Demos\CSharp\ConsoleAppExer\Parameters6\bin\Debug\net8.0\Parameters6.pdb
+C:\Demos\CSharp\ConsoleAppExer\Parameters6\obj\Debug\net8.0\Parameters6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Demos\CSharp\ConsoleAppExer\Parameters6\obj\Debug\net8.0\Parameters6.AssemblyInfoInputs.cache
+C:\Demos\CSharp\ConsoleAppExer\Parameters6\obj\Debug\net8.0\Parameters6.AssemblyInfo.cs
+C:\Demos\CSharp\ConsoleAppExer\Parameters6\obj\Debug\net8.0\Parameters6.csproj.CoreCompileInputs.cache
+C:\Demos\CSharp\ConsoleAppExer\Parameters6\obj\Debug\net8.0\Parameters6.sourcelink.json
+C:\Demos\CSharp\ConsoleAppExer\Parameters6\obj\Debug\net8.0\Parameters6.dll
+C:\Demos\CSharp\ConsoleAppExer\Parameters6\obj\Debug\net8.0\refint\Parameters6.dll
+C:\Demos\CSharp\ConsoleAppExer\Parameters6\obj\Debug\net8.0\Parameters6.pdb
+C:\Demos\CSharp\ConsoleAppExer\Parameters6\obj\Debug\net8.0\Parameters6.genruntimeconfig.cache
+C:\Demos\CSharp\ConsoleAppExer\Parameters6\obj\Debug\net8.0\ref\Parameters6.dll

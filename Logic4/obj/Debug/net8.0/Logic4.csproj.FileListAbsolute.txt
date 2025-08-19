@@ -1,0 +1,14 @@
+C:\Demos\CSharp\ConsoleAppExer\logic4\bin\Debug\net8.0\Logic4.exe
+C:\Demos\CSharp\ConsoleAppExer\logic4\bin\Debug\net8.0\Logic4.deps.json
+C:\Demos\CSharp\ConsoleAppExer\logic4\bin\Debug\net8.0\Logic4.runtimeconfig.json
+C:\Demos\CSharp\ConsoleAppExer\logic4\bin\Debug\net8.0\Logic4.dll
+C:\Demos\CSharp\ConsoleAppExer\logic4\bin\Debug\net8.0\Logic4.pdb
+C:\Demos\CSharp\ConsoleAppExer\logic4\obj\Debug\net8.0\Logic4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Demos\CSharp\ConsoleAppExer\logic4\obj\Debug\net8.0\Logic4.AssemblyInfoInputs.cache
+C:\Demos\CSharp\ConsoleAppExer\logic4\obj\Debug\net8.0\Logic4.AssemblyInfo.cs
+C:\Demos\CSharp\ConsoleAppExer\logic4\obj\Debug\net8.0\Logic4.csproj.CoreCompileInputs.cache
+C:\Demos\CSharp\ConsoleAppExer\logic4\obj\Debug\net8.0\Logic4.dll
+C:\Demos\CSharp\ConsoleAppExer\logic4\obj\Debug\net8.0\refint\Logic4.dll
+C:\Demos\CSharp\ConsoleAppExer\logic4\obj\Debug\net8.0\Logic4.pdb
+C:\Demos\CSharp\ConsoleAppExer\logic4\obj\Debug\net8.0\Logic4.genruntimeconfig.cache
+C:\Demos\CSharp\ConsoleAppExer\logic4\obj\Debug\net8.0\ref\Logic4.dll

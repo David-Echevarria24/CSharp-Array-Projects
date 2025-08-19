@@ -1,0 +1,15 @@
+C:\Demos\CSharp\ConsoleAppExer\DataFormatting3\bin\Debug\net8.0\DataFormatting3.exe
+C:\Demos\CSharp\ConsoleAppExer\DataFormatting3\bin\Debug\net8.0\DataFormatting3.deps.json
+C:\Demos\CSharp\ConsoleAppExer\DataFormatting3\bin\Debug\net8.0\DataFormatting3.runtimeconfig.json
+C:\Demos\CSharp\ConsoleAppExer\DataFormatting3\bin\Debug\net8.0\DataFormatting3.dll
+C:\Demos\CSharp\ConsoleAppExer\DataFormatting3\bin\Debug\net8.0\DataFormatting3.pdb
+C:\Demos\CSharp\ConsoleAppExer\DataFormatting3\obj\Debug\net8.0\DataFormatting3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Demos\CSharp\ConsoleAppExer\DataFormatting3\obj\Debug\net8.0\DataFormatting3.AssemblyInfoInputs.cache
+C:\Demos\CSharp\ConsoleAppExer\DataFormatting3\obj\Debug\net8.0\DataFormatting3.AssemblyInfo.cs
+C:\Demos\CSharp\ConsoleAppExer\DataFormatting3\obj\Debug\net8.0\DataFormatting3.csproj.CoreCompileInputs.cache
+C:\Demos\CSharp\ConsoleAppExer\DataFormatting3\obj\Debug\net8.0\DataFormatting3.sourcelink.json
+C:\Demos\CSharp\ConsoleAppExer\DataFormatting3\obj\Debug\net8.0\DataFormatting3.dll
+C:\Demos\CSharp\ConsoleAppExer\DataFormatting3\obj\Debug\net8.0\refint\DataFormatting3.dll
+C:\Demos\CSharp\ConsoleAppExer\DataFormatting3\obj\Debug\net8.0\DataFormatting3.pdb
+C:\Demos\CSharp\ConsoleAppExer\DataFormatting3\obj\Debug\net8.0\DataFormatting3.genruntimeconfig.cache
+C:\Demos\CSharp\ConsoleAppExer\DataFormatting3\obj\Debug\net8.0\ref\DataFormatting3.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "DataFormatting6/1.0.0": {
+        "runtime": {
+          "DataFormatting6.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DataFormatting6/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

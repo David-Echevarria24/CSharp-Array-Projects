@@ -1,0 +1,15 @@
+C:\Demos\CSharp\ConsoleAppExer\CodingProject3\bin\Debug\net8.0\CodingProject3.exe
+C:\Demos\CSharp\ConsoleAppExer\CodingProject3\bin\Debug\net8.0\CodingProject3.deps.json
+C:\Demos\CSharp\ConsoleAppExer\CodingProject3\bin\Debug\net8.0\CodingProject3.runtimeconfig.json
+C:\Demos\CSharp\ConsoleAppExer\CodingProject3\bin\Debug\net8.0\CodingProject3.dll
+C:\Demos\CSharp\ConsoleAppExer\CodingProject3\bin\Debug\net8.0\CodingProject3.pdb
+C:\Demos\CSharp\ConsoleAppExer\CodingProject3\obj\Debug\net8.0\CodingProject3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Demos\CSharp\ConsoleAppExer\CodingProject3\obj\Debug\net8.0\CodingProject3.AssemblyInfoInputs.cache
+C:\Demos\CSharp\ConsoleAppExer\CodingProject3\obj\Debug\net8.0\CodingProject3.AssemblyInfo.cs
+C:\Demos\CSharp\ConsoleAppExer\CodingProject3\obj\Debug\net8.0\CodingProject3.csproj.CoreCompileInputs.cache
+C:\Demos\CSharp\ConsoleAppExer\CodingProject3\obj\Debug\net8.0\CodingProject3.sourcelink.json
+C:\Demos\CSharp\ConsoleAppExer\CodingProject3\obj\Debug\net8.0\CodingProject3.dll
+C:\Demos\CSharp\ConsoleAppExer\CodingProject3\obj\Debug\net8.0\refint\CodingProject3.dll
+C:\Demos\CSharp\ConsoleAppExer\CodingProject3\obj\Debug\net8.0\CodingProject3.pdb
+C:\Demos\CSharp\ConsoleAppExer\CodingProject3\obj\Debug\net8.0\CodingProject3.genruntimeconfig.cache
+C:\Demos\CSharp\ConsoleAppExer\CodingProject3\obj\Debug\net8.0\ref\CodingProject3.dll

@@ -1,0 +1,14 @@
+C:\Demos\CSharp\ConsoleAppExer\DiceRandom\obj\Debug\net8.0\DiceRandom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Demos\CSharp\ConsoleAppExer\DiceRandom\obj\Debug\net8.0\DiceRandom.AssemblyInfoInputs.cache
+C:\Demos\CSharp\ConsoleAppExer\DiceRandom\obj\Debug\net8.0\DiceRandom.AssemblyInfo.cs
+C:\Demos\CSharp\ConsoleAppExer\DiceRandom\obj\Debug\net8.0\DiceRandom.csproj.CoreCompileInputs.cache
+C:\Demos\CSharp\ConsoleAppExer\DiceRandom\bin\Debug\net8.0\DiceRandom.exe
+C:\Demos\CSharp\ConsoleAppExer\DiceRandom\bin\Debug\net8.0\DiceRandom.deps.json
+C:\Demos\CSharp\ConsoleAppExer\DiceRandom\bin\Debug\net8.0\DiceRandom.runtimeconfig.json
+C:\Demos\CSharp\ConsoleAppExer\DiceRandom\bin\Debug\net8.0\DiceRandom.dll
+C:\Demos\CSharp\ConsoleAppExer\DiceRandom\bin\Debug\net8.0\DiceRandom.pdb
+C:\Demos\CSharp\ConsoleAppExer\DiceRandom\obj\Debug\net8.0\DiceRandom.dll
+C:\Demos\CSharp\ConsoleAppExer\DiceRandom\obj\Debug\net8.0\refint\DiceRandom.dll
+C:\Demos\CSharp\ConsoleAppExer\DiceRandom\obj\Debug\net8.0\DiceRandom.pdb
+C:\Demos\CSharp\ConsoleAppExer\DiceRandom\obj\Debug\net8.0\DiceRandom.genruntimeconfig.cache
+C:\Demos\CSharp\ConsoleAppExer\DiceRandom\obj\Debug\net8.0\ref\DiceRandom.dll

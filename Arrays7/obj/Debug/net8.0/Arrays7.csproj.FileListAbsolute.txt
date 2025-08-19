@@ -1,0 +1,15 @@
+C:\Demos\CSharp\ConsoleAppExer\Arrays7\bin\Debug\net8.0\Arrays7.exe
+C:\Demos\CSharp\ConsoleAppExer\Arrays7\bin\Debug\net8.0\Arrays7.deps.json
+C:\Demos\CSharp\ConsoleAppExer\Arrays7\bin\Debug\net8.0\Arrays7.runtimeconfig.json
+C:\Demos\CSharp\ConsoleAppExer\Arrays7\bin\Debug\net8.0\Arrays7.dll
+C:\Demos\CSharp\ConsoleAppExer\Arrays7\bin\Debug\net8.0\Arrays7.pdb
+C:\Demos\CSharp\ConsoleAppExer\Arrays7\obj\Debug\net8.0\Arrays7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Demos\CSharp\ConsoleAppExer\Arrays7\obj\Debug\net8.0\Arrays7.AssemblyInfoInputs.cache
+C:\Demos\CSharp\ConsoleAppExer\Arrays7\obj\Debug\net8.0\Arrays7.AssemblyInfo.cs
+C:\Demos\CSharp\ConsoleAppExer\Arrays7\obj\Debug\net8.0\Arrays7.csproj.CoreCompileInputs.cache
+C:\Demos\CSharp\ConsoleAppExer\Arrays7\obj\Debug\net8.0\Arrays7.sourcelink.json
+C:\Demos\CSharp\ConsoleAppExer\Arrays7\obj\Debug\net8.0\Arrays7.dll
+C:\Demos\CSharp\ConsoleAppExer\Arrays7\obj\Debug\net8.0\refint\Arrays7.dll
+C:\Demos\CSharp\ConsoleAppExer\Arrays7\obj\Debug\net8.0\Arrays7.pdb
+C:\Demos\CSharp\ConsoleAppExer\Arrays7\obj\Debug\net8.0\Arrays7.genruntimeconfig.cache
+C:\Demos\CSharp\ConsoleAppExer\Arrays7\obj\Debug\net8.0\ref\Arrays7.dll

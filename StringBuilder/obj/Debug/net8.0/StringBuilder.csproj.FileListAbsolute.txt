@@ -1,0 +1,15 @@
+C:\Demos\CSharp\ConsoleAppExer\StringBuilder\bin\Debug\net8.0\StringBuilder.exe
+C:\Demos\CSharp\ConsoleAppExer\StringBuilder\bin\Debug\net8.0\StringBuilder.deps.json
+C:\Demos\CSharp\ConsoleAppExer\StringBuilder\bin\Debug\net8.0\StringBuilder.runtimeconfig.json
+C:\Demos\CSharp\ConsoleAppExer\StringBuilder\bin\Debug\net8.0\StringBuilder.dll
+C:\Demos\CSharp\ConsoleAppExer\StringBuilder\bin\Debug\net8.0\StringBuilder.pdb
+C:\Demos\CSharp\ConsoleAppExer\StringBuilder\obj\Debug\net8.0\StringBuilder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Demos\CSharp\ConsoleAppExer\StringBuilder\obj\Debug\net8.0\StringBuilder.AssemblyInfoInputs.cache
+C:\Demos\CSharp\ConsoleAppExer\StringBuilder\obj\Debug\net8.0\StringBuilder.AssemblyInfo.cs
+C:\Demos\CSharp\ConsoleAppExer\StringBuilder\obj\Debug\net8.0\StringBuilder.csproj.CoreCompileInputs.cache
+C:\Demos\CSharp\ConsoleAppExer\StringBuilder\obj\Debug\net8.0\StringBuilder.sourcelink.json
+C:\Demos\CSharp\ConsoleAppExer\StringBuilder\obj\Debug\net8.0\StringBuilder.dll
+C:\Demos\CSharp\ConsoleAppExer\StringBuilder\obj\Debug\net8.0\refint\StringBuilder.dll
+C:\Demos\CSharp\ConsoleAppExer\StringBuilder\obj\Debug\net8.0\StringBuilder.pdb
+C:\Demos\CSharp\ConsoleAppExer\StringBuilder\obj\Debug\net8.0\StringBuilder.genruntimeconfig.cache
+C:\Demos\CSharp\ConsoleAppExer\StringBuilder\obj\Debug\net8.0\ref\StringBuilder.dll

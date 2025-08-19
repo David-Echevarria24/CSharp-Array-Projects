@@ -1,0 +1,14 @@
+C:\Demos\CSharp\ConsoleAppExer\Loops\bin\Debug\net8.0\Loops.exe
+C:\Demos\CSharp\ConsoleAppExer\Loops\bin\Debug\net8.0\Loops.deps.json
+C:\Demos\CSharp\ConsoleAppExer\Loops\bin\Debug\net8.0\Loops.runtimeconfig.json
+C:\Demos\CSharp\ConsoleAppExer\Loops\bin\Debug\net8.0\Loops.dll
+C:\Demos\CSharp\ConsoleAppExer\Loops\bin\Debug\net8.0\Loops.pdb
+C:\Demos\CSharp\ConsoleAppExer\Loops\obj\Debug\net8.0\Loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Demos\CSharp\ConsoleAppExer\Loops\obj\Debug\net8.0\Loops.AssemblyInfoInputs.cache
+C:\Demos\CSharp\ConsoleAppExer\Loops\obj\Debug\net8.0\Loops.AssemblyInfo.cs
+C:\Demos\CSharp\ConsoleAppExer\Loops\obj\Debug\net8.0\Loops.csproj.CoreCompileInputs.cache
+C:\Demos\CSharp\ConsoleAppExer\Loops\obj\Debug\net8.0\Loops.dll
+C:\Demos\CSharp\ConsoleAppExer\Loops\obj\Debug\net8.0\refint\Loops.dll
+C:\Demos\CSharp\ConsoleAppExer\Loops\obj\Debug\net8.0\Loops.pdb
+C:\Demos\CSharp\ConsoleAppExer\Loops\obj\Debug\net8.0\Loops.genruntimeconfig.cache
+C:\Demos\CSharp\ConsoleAppExer\Loops\obj\Debug\net8.0\ref\Loops.dll

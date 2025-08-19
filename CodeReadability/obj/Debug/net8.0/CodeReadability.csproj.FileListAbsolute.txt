@@ -1,0 +1,14 @@
+C:\Demos\CSharp\ConsoleAppExer\CodeReadability\bin\Debug\net8.0\CodeReadability.exe
+C:\Demos\CSharp\ConsoleAppExer\CodeReadability\bin\Debug\net8.0\CodeReadability.deps.json
+C:\Demos\CSharp\ConsoleAppExer\CodeReadability\bin\Debug\net8.0\CodeReadability.runtimeconfig.json
+C:\Demos\CSharp\ConsoleAppExer\CodeReadability\bin\Debug\net8.0\CodeReadability.dll
+C:\Demos\CSharp\ConsoleAppExer\CodeReadability\bin\Debug\net8.0\CodeReadability.pdb
+C:\Demos\CSharp\ConsoleAppExer\CodeReadability\obj\Debug\net8.0\CodeReadability.GeneratedMSBuildEditorConfig.editorconfig
+C:\Demos\CSharp\ConsoleAppExer\CodeReadability\obj\Debug\net8.0\CodeReadability.AssemblyInfoInputs.cache
+C:\Demos\CSharp\ConsoleAppExer\CodeReadability\obj\Debug\net8.0\CodeReadability.AssemblyInfo.cs
+C:\Demos\CSharp\ConsoleAppExer\CodeReadability\obj\Debug\net8.0\CodeReadability.csproj.CoreCompileInputs.cache
+C:\Demos\CSharp\ConsoleAppExer\CodeReadability\obj\Debug\net8.0\CodeReadability.dll
+C:\Demos\CSharp\ConsoleAppExer\CodeReadability\obj\Debug\net8.0\refint\CodeReadability.dll
+C:\Demos\CSharp\ConsoleAppExer\CodeReadability\obj\Debug\net8.0\CodeReadability.pdb
+C:\Demos\CSharp\ConsoleAppExer\CodeReadability\obj\Debug\net8.0\CodeReadability.genruntimeconfig.cache
+C:\Demos\CSharp\ConsoleAppExer\CodeReadability\obj\Debug\net8.0\ref\CodeReadability.dll

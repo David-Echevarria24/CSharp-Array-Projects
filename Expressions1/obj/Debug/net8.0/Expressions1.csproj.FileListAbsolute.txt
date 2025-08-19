@@ -1,0 +1,15 @@
+C:\Demos\CSharp\ConsoleAppExer\Expressions1\bin\Debug\net8.0\Expressions1.exe
+C:\Demos\CSharp\ConsoleAppExer\Expressions1\bin\Debug\net8.0\Expressions1.deps.json
+C:\Demos\CSharp\ConsoleAppExer\Expressions1\bin\Debug\net8.0\Expressions1.runtimeconfig.json
+C:\Demos\CSharp\ConsoleAppExer\Expressions1\bin\Debug\net8.0\Expressions1.dll
+C:\Demos\CSharp\ConsoleAppExer\Expressions1\bin\Debug\net8.0\Expressions1.pdb
+C:\Demos\CSharp\ConsoleAppExer\Expressions1\obj\Debug\net8.0\Expressions1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Demos\CSharp\ConsoleAppExer\Expressions1\obj\Debug\net8.0\Expressions1.AssemblyInfoInputs.cache
+C:\Demos\CSharp\ConsoleAppExer\Expressions1\obj\Debug\net8.0\Expressions1.AssemblyInfo.cs
+C:\Demos\CSharp\ConsoleAppExer\Expressions1\obj\Debug\net8.0\Expressions1.csproj.CoreCompileInputs.cache
+C:\Demos\CSharp\ConsoleAppExer\Expressions1\obj\Debug\net8.0\Expressions1.sourcelink.json
+C:\Demos\CSharp\ConsoleAppExer\Expressions1\obj\Debug\net8.0\Expressions1.dll
+C:\Demos\CSharp\ConsoleAppExer\Expressions1\obj\Debug\net8.0\refint\Expressions1.dll
+C:\Demos\CSharp\ConsoleAppExer\Expressions1\obj\Debug\net8.0\Expressions1.pdb
+C:\Demos\CSharp\ConsoleAppExer\Expressions1\obj\Debug\net8.0\Expressions1.genruntimeconfig.cache
+C:\Demos\CSharp\ConsoleAppExer\Expressions1\obj\Debug\net8.0\ref\Expressions1.dll

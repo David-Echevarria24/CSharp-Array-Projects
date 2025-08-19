@@ -1,0 +1,15 @@
+C:\Demos\CSharp\ConsoleAppExer\DataFormatting1\bin\Debug\net8.0\DataFormatting1.exe
+C:\Demos\CSharp\ConsoleAppExer\DataFormatting1\bin\Debug\net8.0\DataFormatting1.deps.json
+C:\Demos\CSharp\ConsoleAppExer\DataFormatting1\bin\Debug\net8.0\DataFormatting1.runtimeconfig.json
+C:\Demos\CSharp\ConsoleAppExer\DataFormatting1\bin\Debug\net8.0\DataFormatting1.dll
+C:\Demos\CSharp\ConsoleAppExer\DataFormatting1\bin\Debug\net8.0\DataFormatting1.pdb
+C:\Demos\CSharp\ConsoleAppExer\DataFormatting1\obj\Debug\net8.0\DataFormatting1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Demos\CSharp\ConsoleAppExer\DataFormatting1\obj\Debug\net8.0\DataFormatting1.AssemblyInfoInputs.cache
+C:\Demos\CSharp\ConsoleAppExer\DataFormatting1\obj\Debug\net8.0\DataFormatting1.AssemblyInfo.cs
+C:\Demos\CSharp\ConsoleAppExer\DataFormatting1\obj\Debug\net8.0\DataFormatting1.csproj.CoreCompileInputs.cache
+C:\Demos\CSharp\ConsoleAppExer\DataFormatting1\obj\Debug\net8.0\DataFormatting1.sourcelink.json
+C:\Demos\CSharp\ConsoleAppExer\DataFormatting1\obj\Debug\net8.0\DataFormatting1.dll
+C:\Demos\CSharp\ConsoleAppExer\DataFormatting1\obj\Debug\net8.0\refint\DataFormatting1.dll
+C:\Demos\CSharp\ConsoleAppExer\DataFormatting1\obj\Debug\net8.0\DataFormatting1.pdb
+C:\Demos\CSharp\ConsoleAppExer\DataFormatting1\obj\Debug\net8.0\DataFormatting1.genruntimeconfig.cache
+C:\Demos\CSharp\ConsoleAppExer\DataFormatting1\obj\Debug\net8.0\ref\DataFormatting1.dll

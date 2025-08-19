@@ -1,0 +1,15 @@
+C:\Demos\CSharp\ConsoleAppExer\Parameters5\bin\Debug\net8.0\Parameters5.exe
+C:\Demos\CSharp\ConsoleAppExer\Parameters5\bin\Debug\net8.0\Parameters5.deps.json
+C:\Demos\CSharp\ConsoleAppExer\Parameters5\bin\Debug\net8.0\Parameters5.runtimeconfig.json
+C:\Demos\CSharp\ConsoleAppExer\Parameters5\bin\Debug\net8.0\Parameters5.dll
+C:\Demos\CSharp\ConsoleAppExer\Parameters5\bin\Debug\net8.0\Parameters5.pdb
+C:\Demos\CSharp\ConsoleAppExer\Parameters5\obj\Debug\net8.0\Parameters5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Demos\CSharp\ConsoleAppExer\Parameters5\obj\Debug\net8.0\Parameters5.AssemblyInfoInputs.cache
+C:\Demos\CSharp\ConsoleAppExer\Parameters5\obj\Debug\net8.0\Parameters5.AssemblyInfo.cs
+C:\Demos\CSharp\ConsoleAppExer\Parameters5\obj\Debug\net8.0\Parameters5.csproj.CoreCompileInputs.cache
+C:\Demos\CSharp\ConsoleAppExer\Parameters5\obj\Debug\net8.0\Parameters5.sourcelink.json
+C:\Demos\CSharp\ConsoleAppExer\Parameters5\obj\Debug\net8.0\Parameters5.dll
+C:\Demos\CSharp\ConsoleAppExer\Parameters5\obj\Debug\net8.0\refint\Parameters5.dll
+C:\Demos\CSharp\ConsoleAppExer\Parameters5\obj\Debug\net8.0\Parameters5.pdb
+C:\Demos\CSharp\ConsoleAppExer\Parameters5\obj\Debug\net8.0\Parameters5.genruntimeconfig.cache
+C:\Demos\CSharp\ConsoleAppExer\Parameters5\obj\Debug\net8.0\ref\Parameters5.dll

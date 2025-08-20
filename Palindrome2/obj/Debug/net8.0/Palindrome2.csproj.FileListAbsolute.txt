@@ -1,0 +1,15 @@
+C:\Demos\CSharp\ConsoleAppExer\Palindrome2\bin\Debug\net8.0\Palindrome2.exe
+C:\Demos\CSharp\ConsoleAppExer\Palindrome2\bin\Debug\net8.0\Palindrome2.deps.json
+C:\Demos\CSharp\ConsoleAppExer\Palindrome2\bin\Debug\net8.0\Palindrome2.runtimeconfig.json
+C:\Demos\CSharp\ConsoleAppExer\Palindrome2\bin\Debug\net8.0\Palindrome2.dll
+C:\Demos\CSharp\ConsoleAppExer\Palindrome2\bin\Debug\net8.0\Palindrome2.pdb
+C:\Demos\CSharp\ConsoleAppExer\Palindrome2\obj\Debug\net8.0\Palindrome2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Demos\CSharp\ConsoleAppExer\Palindrome2\obj\Debug\net8.0\Palindrome2.AssemblyInfoInputs.cache
+C:\Demos\CSharp\ConsoleAppExer\Palindrome2\obj\Debug\net8.0\Palindrome2.AssemblyInfo.cs
+C:\Demos\CSharp\ConsoleAppExer\Palindrome2\obj\Debug\net8.0\Palindrome2.csproj.CoreCompileInputs.cache
+C:\Demos\CSharp\ConsoleAppExer\Palindrome2\obj\Debug\net8.0\Palindrome2.sourcelink.json
+C:\Demos\CSharp\ConsoleAppExer\Palindrome2\obj\Debug\net8.0\Palindrome2.dll
+C:\Demos\CSharp\ConsoleAppExer\Palindrome2\obj\Debug\net8.0\refint\Palindrome2.dll
+C:\Demos\CSharp\ConsoleAppExer\Palindrome2\obj\Debug\net8.0\Palindrome2.pdb
+C:\Demos\CSharp\ConsoleAppExer\Palindrome2\obj\Debug\net8.0\Palindrome2.genruntimeconfig.cache
+C:\Demos\CSharp\ConsoleAppExer\Palindrome2\obj\Debug\net8.0\ref\Palindrome2.dll

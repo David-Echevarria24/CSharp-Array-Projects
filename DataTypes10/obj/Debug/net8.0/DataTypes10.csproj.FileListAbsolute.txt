@@ -1,0 +1,15 @@
+C:\Demos\CSharp\ConsoleAppExer\DataTypes10\bin\Debug\net8.0\DataTypes10.exe
+C:\Demos\CSharp\ConsoleAppExer\DataTypes10\bin\Debug\net8.0\DataTypes10.deps.json
+C:\Demos\CSharp\ConsoleAppExer\DataTypes10\bin\Debug\net8.0\DataTypes10.runtimeconfig.json
+C:\Demos\CSharp\ConsoleAppExer\DataTypes10\bin\Debug\net8.0\DataTypes10.dll
+C:\Demos\CSharp\ConsoleAppExer\DataTypes10\bin\Debug\net8.0\DataTypes10.pdb
+C:\Demos\CSharp\ConsoleAppExer\DataTypes10\obj\Debug\net8.0\DataTypes10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Demos\CSharp\ConsoleAppExer\DataTypes10\obj\Debug\net8.0\DataTypes10.AssemblyInfoInputs.cache
+C:\Demos\CSharp\ConsoleAppExer\DataTypes10\obj\Debug\net8.0\DataTypes10.AssemblyInfo.cs
+C:\Demos\CSharp\ConsoleAppExer\DataTypes10\obj\Debug\net8.0\DataTypes10.csproj.CoreCompileInputs.cache
+C:\Demos\CSharp\ConsoleAppExer\DataTypes10\obj\Debug\net8.0\DataTypes10.sourcelink.json
+C:\Demos\CSharp\ConsoleAppExer\DataTypes10\obj\Debug\net8.0\DataTypes10.dll
+C:\Demos\CSharp\ConsoleAppExer\DataTypes10\obj\Debug\net8.0\refint\DataTypes10.dll
+C:\Demos\CSharp\ConsoleAppExer\DataTypes10\obj\Debug\net8.0\DataTypes10.pdb
+C:\Demos\CSharp\ConsoleAppExer\DataTypes10\obj\Debug\net8.0\DataTypes10.genruntimeconfig.cache
+C:\Demos\CSharp\ConsoleAppExer\DataTypes10\obj\Debug\net8.0\ref\DataTypes10.dll

@@ -38,12 +38,16 @@
   <Project Path="DataFormatting5/DataFormatting5.csproj" />
   <Project Path="DataFormatting6/DataFormatting6.csproj" />
   <Project Path="DataTypes1/DataTypes1.csproj" />
+  <Project Path="DataTypes10/DataTypes10.csproj" />
+  <Project Path="DataTypes11/DataTypes11.csproj" />
   <Project Path="DataTypes2/DataTypes2.csproj" />
   <Project Path="DataTypes3/DataTypes3.csproj" />
   <Project Path="DataTypes4/DataTypes4.csproj" />
   <Project Path="DataTypes5/DataTypes5.csproj" />
   <Project Path="DataTypes6/DataTypes6.csproj" />
   <Project Path="DataTypes7/DataTypes7.csproj" />
+  <Project Path="DataTypes8/DataTypes8.csproj" />
+  <Project Path="DataTypes9/DataTypes9.csproj" />
   <Project Path="DiceRandom/DiceRandom.csproj" />
   <Project Path="Expressions1/Expressions1.csproj" />
   <Project Path="Inheritance1/Inheritance1.csproj" />
@@ -57,6 +61,9 @@
   <Project Path="MathMethod/MathMethod.csproj" />
   <Project Path="Methods1/Methods1.csproj" />
   <Project Path="Methods2/Methods2.csproj" />
+  <Project Path="Methods3/Methods3.csproj" />
+  <Project Path="Palindrome/Palindrome.csproj" />
+  <Project Path="Palindrome2/Palindrome2.csproj" />
   <Project Path="Parameters1/Parameters1.csproj" />
   <Project Path="Parameters2/Parameters2.csproj" />
   <Project Path="Parameters3/Parameters3.csproj" />

@@ -77,4 +77,10 @@
   <Project Path="Switch2/Switch2.csproj" />
   <Project Path="SwitchCase1/SwitchCase1.csproj" />
   <Project Path="SwitchCase3/SwitchCase3.csproj" />
+  <Project Path="SystemCollectionsArrays/SystemCollectionsArrays.csproj" />
+  <Project Path="SystemCollectionsBitArrays/SystemCollectionsBitArrays.csproj" />
+  <Project Path="SystemCollectionsHashTable/SystemCollectionsHashTable.csproj" />
+  <Project Path="SystemCollectionsQue/SystemCollectionsQue.csproj" />
+  <Project Path="SystemCollectionsSortedList/SystemCollectionsSortedList.csproj" />
+  <Project Path="SystemCollectionsStack/SystemCollectionsStack.csproj" />
 </Solution>

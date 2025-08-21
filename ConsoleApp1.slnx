@@ -50,6 +50,10 @@
   <Project Path="DataTypes9/DataTypes9.csproj" />
   <Project Path="DiceRandom/DiceRandom.csproj" />
   <Project Path="Expressions1/Expressions1.csproj" />
+  <Project Path="Generic1/Generic1.csproj" />
+  <Project Path="Generic2/Generic2.csproj" />
+  <Project Path="Generic3/Generic3.csproj" />
+  <Project Path="Generic4/Generic4.csproj" />
   <Project Path="Inheritance1/Inheritance1.csproj" />
   <Project Path="Logic1/Logic1.csproj" />
   <Project Path="Logic2/Logic2.csproj" />

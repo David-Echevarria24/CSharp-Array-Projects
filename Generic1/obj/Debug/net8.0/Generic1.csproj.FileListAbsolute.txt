@@ -1,0 +1,15 @@
+C:\Demos\CSharp\ConsoleAppExer\Generic1\bin\Debug\net8.0\Generic1.exe
+C:\Demos\CSharp\ConsoleAppExer\Generic1\bin\Debug\net8.0\Generic1.deps.json
+C:\Demos\CSharp\ConsoleAppExer\Generic1\bin\Debug\net8.0\Generic1.runtimeconfig.json
+C:\Demos\CSharp\ConsoleAppExer\Generic1\bin\Debug\net8.0\Generic1.dll
+C:\Demos\CSharp\ConsoleAppExer\Generic1\bin\Debug\net8.0\Generic1.pdb
+C:\Demos\CSharp\ConsoleAppExer\Generic1\obj\Debug\net8.0\Generic1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Demos\CSharp\ConsoleAppExer\Generic1\obj\Debug\net8.0\Generic1.AssemblyInfoInputs.cache
+C:\Demos\CSharp\ConsoleAppExer\Generic1\obj\Debug\net8.0\Generic1.AssemblyInfo.cs
+C:\Demos\CSharp\ConsoleAppExer\Generic1\obj\Debug\net8.0\Generic1.csproj.CoreCompileInputs.cache
+C:\Demos\CSharp\ConsoleAppExer\Generic1\obj\Debug\net8.0\Generic1.sourcelink.json
+C:\Demos\CSharp\ConsoleAppExer\Generic1\obj\Debug\net8.0\Generic1.dll
+C:\Demos\CSharp\ConsoleAppExer\Generic1\obj\Debug\net8.0\refint\Generic1.dll
+C:\Demos\CSharp\ConsoleAppExer\Generic1\obj\Debug\net8.0\Generic1.pdb
+C:\Demos\CSharp\ConsoleAppExer\Generic1\obj\Debug\net8.0\Generic1.genruntimeconfig.cache
+C:\Demos\CSharp\ConsoleAppExer\Generic1\obj\Debug\net8.0\ref\Generic1.dll
